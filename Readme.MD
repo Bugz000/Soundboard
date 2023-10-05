@@ -19,6 +19,10 @@ and sadly, it also only supports WAV files for now
 
 should anyone like to take this concept further either with my codebase or something completely novel, please let me know.
 
+also, i am not proficient at git, infact i comprehensively hate it, so bear that in mind, i don't use git much.
+
+you can find me on libera.chat #ahk
+
  ## Contents
 
  - [Installation](#installation)
