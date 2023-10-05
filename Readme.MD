@@ -5,9 +5,13 @@
  > A quick soundboard in AHK
 
 this code is god  awful, but it does work in some capacity, it does also have the ability to use the inbuilt windows TTS engine to generate completely novel voice lines though specific operation of that feature has been omitted in this case for simplicity.
+
 i put this up simply because discord is preventing users putting their own sounds up for private calls, so i made this to circumnavigate that stupid paywall, and i hope it can help others
+
 it is unique in that it has a categorisation feature, so you can have hundreds of sounds and be able to find the exact sound you want in only 3-4 keypresses
+
 there is keybinds for changing category pages ( numpad * and - ) and keybinds for pages within categories ( numpad + and enter ) - this way you can easilly "pan" across to the category you want and skip to the page you want, and the 3x3 grid corresponds with the numpad keys 1-9.
+
 this means within 4 keypresses you have had direct access to 36 sounds, and from any of those you have had access to a further 90 with only one further keypress from any point
 
 HOWEVER the software is absolutely not polished, it has many bugs, not much stuff is configurable, i need to remake the ui and i'd love to have an unsigned audio driver to push the audio to
