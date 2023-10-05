@@ -34,10 +34,15 @@ should anyone like to take this concept further either with my codebase or somet
  ## Installation
 
 install ahk
+
 load files into a folder next to the ahk files called "quickies"
+
 within "quickies" add folders for categories... "responses" "suprise!" "music" "wtf" "annoying" 
+
 put the respective sounds within the categories
+
 run script
+
 the numpad operates the ui
 
 
